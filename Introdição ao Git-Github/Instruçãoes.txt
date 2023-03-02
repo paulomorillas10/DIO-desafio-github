@@ -1,4 +1,0 @@
-Linki dowloag Git: https://git-scm.com/
-
-Git comandos
-Link: https://git-scm.com/docs
